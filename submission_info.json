@@ -1,4 +1,4 @@
 {
   "name": "baseline_submission",
-  "model_name": "pipe_direct_mix50"
+  "model_name": "s2_ridge_timefeat"
 }
