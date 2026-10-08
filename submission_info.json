@@ -1,4 +1,4 @@
 {
-  "name": "baseline_submission",
-  "model_name": "s2_ridge_timefeat"
+  "name": "오신형",
+  "model_name": "s2_lgbm"
 }
