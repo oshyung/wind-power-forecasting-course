@@ -1,4 +1,4 @@
 {
   "name": "오신형",
-  "model_name": "s2_lgbm"
+  "model_name": "s2_avg_timefeat"
 }
