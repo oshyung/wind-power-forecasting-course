@@ -1,4 +1,4 @@
 {
   "name": "오신형",
-  "model_name": "st_m10_avg_timefeat"
+  "model_name": "ridge_time_c10"
 }
